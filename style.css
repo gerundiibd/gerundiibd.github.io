@@ -132,3 +132,23 @@ html, body {
 		height: 350px;
 	}
 }
+@media (max-width: 640px)
+{
+	.title
+	{
+		font-size: 25px;
+	}
+	.text
+	{
+		font-size: 15px;
+	}
+	.author
+	{
+		font-size: 15px;
+	}
+	.card
+	{
+		width: 540px;
+		height: 300px;
+	}
+}
